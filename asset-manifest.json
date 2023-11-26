@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/habbit-tracker/static/css/main.5c6ac6db.css",
+    "main.js": "/habbit-tracker/static/js/main.74d6db6e.js",
+    "index.html": "/habbit-tracker/index.html",
+    "main.5c6ac6db.css.map": "/habbit-tracker/static/css/main.5c6ac6db.css.map",
+    "main.74d6db6e.js.map": "/habbit-tracker/static/js/main.74d6db6e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c6ac6db.css",
+    "static/js/main.74d6db6e.js"
+  ]
+}
